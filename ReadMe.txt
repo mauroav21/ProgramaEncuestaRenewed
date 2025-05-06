@@ -1,6 +1,6 @@
 ProgramaEncuestaRenew
 Fecha: 05/05/2025
-Autor: Mauro Emanuel Alvarado Vázquez
+Autor: mauro.av
 
 Descripción
 ProgramaEncuestaRenew tiene como finalidad automatizar la encuesta de evaluación docente utilizando Python y Selenium, logrando así disminuir los tiempos de evaluación.
