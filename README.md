@@ -50,9 +50,13 @@ De momento esta como predetarminada la opción totalmente de acuerdo, y en comen
 
 ## Advertencia
 
-Este software se proporciona con fines educativos. El uso indebido puede violar los términos y condiciones del portal de evaluación. Asegúrate de contar con autorización antes de automatizar procesos en plataformas oficiales.
+Este software ha sido desarrollado únicamente con fines educativos, como ejemplo de automatización con Selenium y manipulación de interfaces gráficas con Tkinter. No está destinado para su uso en entornos de producción ni para la automatización masiva sin supervisión.
+
+El uso de esta herramienta para automatizar el llenado de evaluaciones dentro de plataformas oficiales, como el portal de evaluación del TecNM o sistemas similares, puede violar sus términos y condiciones de uso. Además, este tipo de acciones podrían ser consideradas como prácticas deshonestas o no autorizadas por parte de las instituciones educativas.
 
 Cada usuario es completamente responsable del uso que le dé a este software. Ni el autor ni los colaboradores del proyecto se hacen responsables por sanciones académicas, administrativas o legales que puedan derivarse de un uso indebido de la herramienta. Se recomienda encarecidamente consultar con la institución correspondiente y obtener permiso explícito antes de emplear este tipo de automatización en plataformas institucionales.
+
+Recuerda: la integridad académica y el cumplimiento de las normas institucionales son fundamentales para una formación profesional ética y responsable.
 
 
 
