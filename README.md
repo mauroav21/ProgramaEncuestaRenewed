@@ -52,6 +52,8 @@ De momento esta como predetarminada la opción totalmente de acuerdo, y en comen
 
 Este software se proporciona con fines educativos. El uso indebido puede violar los términos y condiciones del portal de evaluación. Asegúrate de contar con autorización antes de automatizar procesos en plataformas oficiales.
 
+Cada usuario es completamente responsable del uso que le dé a este software. Ni el autor ni los colaboradores del proyecto se hacen responsables por sanciones académicas, administrativas o legales que puedan derivarse de un uso indebido de la herramienta. Se recomienda encarecidamente consultar con la institución correspondiente y obtener permiso explícito antes de emplear este tipo de automatización en plataformas institucionales.
+
 
 
 ## Authors
