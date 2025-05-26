@@ -44,6 +44,10 @@ edge_driver_path = 'C:\Users\TU_USUARIO\Ruta\msedgedriver.exe'
 3. Presiona "Iniciar Evaluación".
 4. El programa comenzará el proceso de evaluación de manera automática.
 
+## Aviso
+
+De momento esta como predetarminada la opción totalmente de acuerdo, y en comentarios el mensaje "Excelente Docente". Es posible editarlo antes de ejecutar el codigo.
+
 ## Advertencia
 
 Este software se proporciona con fines educativos. El uso indebido puede violar los términos y condiciones del portal de evaluación. Asegúrate de contar con autorización antes de automatizar procesos en plataformas oficiales.
