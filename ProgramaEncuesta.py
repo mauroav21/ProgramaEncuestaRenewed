@@ -27,7 +27,7 @@ def iniciar_automatizacion():
     messagebox.showinfo("Éxito", "La automatización ha comenzado.")
 
     # Path to your Edge WebDriver
-    edge_driver_path = 'C:\Users\mauro\Documents\TecNM\8 semestre\ProgramaEncuesta\msedgedriver.exe'
+    edge_driver_path = 'C:\dedge\msedgedriver.exe'
     service = Service(executable_path=edge_driver_path)
     driver = webdriver.Edge(service=service)
 
